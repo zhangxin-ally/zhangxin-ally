@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**zhangxin-ally/zhangxin-ally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Zhang Xin Ai Li
 
-Here are some ideas to get you started:
+### 💻 Computer Science & Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+---
+
+## 🚀 About Me
+
+- 🎓 Major: Computer Science and Technology
+- 🌱 Currently learning C++ and algorithms
+- 💡 Interested in algorithm design and problem solving
+- 🎯 Working towards becoming an Algorithm Engineer
+
+## 🛠️ Skills & Tools
+
+- Programming:*C++
+- Tools:Git, GitHub
+- Learning: Data Structures and Algorithms
+
+## 📚 My Learning Journey
+
+- Practicing C++ programming
+- Learning fundamental algorithms
+- Exploring Git and GitHub
+
+## 🎯 My Goals
+
+- Improve my problem-solving skills
+- Build more programming projects
+- Keep learning and growing every day
+
+---
+
+⭐ Thanks for visiting my profile!
