@@ -1,4 +1,5 @@
 ![Zhang Xinlin Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zhang%20Xinlin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Algorithm%20Enthusiast&descAlignY=60&descSize=16)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Zhang+Xinlin!;Computer+Science+Student;Learning+C%2B%2B+%26+Algorithms;Future+Algorithm+Engineer)](https://git.io/typing-svg)
 # 👋 Hi, I'm Zhang Xin Lin
 
 ### 💻 Computer Science & Technology Student
