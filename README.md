@@ -1,4 +1,4 @@
-
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zhang%20Xin%20Ai%20Li&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Algorithm%20Enthusiast&descAlignY=60&descSize=16)
 # 👋 Hi, I'm Zhang Xin Ai Li
 
 ### 💻 Computer Science & Technology Student
