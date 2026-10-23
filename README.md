@@ -41,3 +41,8 @@ Welcome to my GitHub profile!
 ---
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangxin-ally&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxin-ally&layout=compact&theme=tokyonight)
